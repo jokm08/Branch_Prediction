@@ -1,10 +1,10 @@
 /*************************************************************************************************/
-/*												 */
-/*					BRANCH PREDICTOR					 */
-/*												 */
-/* Author      : Jose Kurian Manooparambil(jkm452)						 */
-/* Class       : Computing Systems Architecture							 */
-/* Institution : New York University, Tandon School Of Engineering				 */
+/*												 												 */
+/*					BRANCH PREDICTOR					 										 */
+/*												 												 */
+/* Author      : Jose Kurian Manooparambil(jkm452)						 						 */
+/* Class       : Computing Systems Architecture							 						 */
+/* Institution : New York University, Tandon School Of Engineering				 				 */
 /*************************************************************************************************/
 
 #include<iostream>
